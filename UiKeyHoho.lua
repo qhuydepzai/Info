@@ -1,7 +1,7 @@
 local Config = {
     ['Key'] = 'quchuydepzai',
     ['Link Key'] = {
-        ['Key 1'] = '',
+        ['Key 1'] = 'https://notevn.com/sr0qhcp4',
         ['Key 2'] = '',
     },
 }
@@ -132,7 +132,7 @@ Wallpaper.ScaleType = Enum.ScaleType.Fit
 Wallpaper.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
 Wallpaper.Position = UDim2.new(-0.0361702, 0, -0.158876, 0)
 Wallpaper.Name = "Wallpaper"
-Wallpaper.Image = "rbxassetid://133850168544647"
+Wallpaper.Image = "rbxassetid://86482311476499"
 Wallpaper.Size = UDim2.new(1.11064, 0, 1.59989, 0)
 Wallpaper.BorderColor3 = Color3.fromRGB(0, 0, 0)
 Wallpaper.Parent = INTRO
@@ -244,7 +244,7 @@ ImageLabel.BorderSizePixel = 0
 ImageLabel.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
 ImageLabel.Position = UDim2.new(1, 0, .5, 0)
 ImageLabel.AnchorPoint = Vector2.new(.5,.5)
-ImageLabel.Image = "rbxassetid://127057715088982"
+ImageLabel.Image = "rbxassetid://"
 ImageLabel.Size = UDim2.new(0.671884, 0, 15.1201, 0)
 ImageLabel.BorderColor3 = Color3.fromRGB(0, 0, 0)
 ImageLabel.BackgroundTransparency = 1
@@ -441,7 +441,7 @@ Text_4.TextColor3 = Color3.fromRGB(255, 255, 255)
 Text_4.TextSize = 20.000
 Text_4.TextStrokeColor3 = Color3.fromRGB(255, 255, 255)
 local Hub = {}
-Hub.Name = 'Teddy Hub'
+Hub.Name = 'QucHuy Hub'
 Hub.Files = 'BloxFruit.json'
 function Save()
     local HttpService = game:GetService("HttpService")
